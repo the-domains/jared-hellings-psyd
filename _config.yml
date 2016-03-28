@@ -1,0 +1,28 @@
+name: 'Jared Hellings, PsyD'
+favicon: null
+layout_spectrum: 0.4347993575502187
+typography_spectrum: 0.6269663583952934
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.0844708438962698
+  lightness: 0.9393694747705013
+  saturation: 0.7123823387082666
+  rhythmicContrast: 0.3224497886840254
+purpose: []
