@@ -1,14 +1,15 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'I am in-network with Premera, Regence, First Choice, and Medicare. I will bill your insurance directly, but cannot guarantee payment from your insurance provider. It is your responsibility to find out from your insurance company the extent to which your mental health benefit may be limited. In the event that your insurance denies payment you will be responsible for the balance on your account. '
-datePublished: '2016-05-05T03:03:50.875Z'
-dateModified: '2016-05-05T03:03:50.530Z'
+datePublished: '2016-05-05T03:29:57.063Z'
+dateModified: '2016-05-05T03:26:53.610Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-insurance-and-fees.md
 authors: []
 publisher:
   name: null
@@ -16,9 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-insurance-and-fees.md
 url: insurance-and-fees/index.html
-_type: Article
+_type: WebPage
 
 ---
 I am in-network with Premera, Regence, First Choice, and Medicare. I will bill your insurance directly, but cannot guarantee payment from your insurance provider. It is your responsibility to find out from your insurance company the extent to which your mental health benefit may be limited. In the event that your insurance denies payment you will be responsible for the balance on your account. 
