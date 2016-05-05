@@ -4,7 +4,7 @@
         <description><![CDATA[Jared Hellings, PsyD]]></description>
         <link>https://thegrid.ai/jared-hellings-psyd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 03:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 03:24:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jared-hellings-psyd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jared-hellings-psyd/welcome-to-my-website-i-am-a-clinical-psychologist-working/index.html</link>
             <guid isPermaLink="false">ca91f20a-1d25-4622-a5d7-f2aecc45cbcd</guid>
             <pubDate>Thu, 05 May 2016 02:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Psychotherapy]]></title>
+            <description><![CDATA[<p>Psychotherapy (also called therapy or counseling) is a process of mutual collaboration between therapist and client to identify the underlying causes of distress and find more adaptive and satisfying alternatives. Although there are many approaches to psychotherapy, research continues to demonstrate that the most crucial aspect is a strong professional relationship between client and therapist that is based on understanding, empathy, and openness. Therefore, I focus on creating a non-judgmental atmosphere that allows for an exploration of an individual’s thoughts, feelings, relationships, and life patterns. Above all, it is important that you feel understood. </p>]]></description>
+            <link>https://thegrid.ai/jared-hellings-psyd/therapy/index.html</link>
+            <guid isPermaLink="false">ed4fc2f9-dbb9-4e11-b36f-98a1bdbc729c</guid>
+            <pubDate>Thu, 05 May 2016 03:24:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Assessment]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/jared-hellings-psyd/assessment-process/index.html</link>
             <guid isPermaLink="false">ae22ea81-4d5a-4329-879e-d1d3700e7914</guid>
             <pubDate>Thu, 05 May 2016 02:58:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Therapy]]></title>
-            <description><![CDATA[<p>Psychotherapy (also called therapy or counseling) is a process of mutual collaboration between therapist and client to identify the underlying causes of distress and find more adaptive and satisfying alternatives. Although there are many approaches to psychotherapy, research continues to demonstrate that the most crucial aspect is a strong professional relationship between client and therapist that is based on understanding, empathy, and openness. Therefore, I focus on creating a non-judgmental atmosphere that allows for an exploration of an individual’s thoughts, feelings, relationships, and life patterns. Above all, it is important that you feel understood. </p>]]></description>
-            <link>https://thegrid.ai/jared-hellings-psyd/therapy/index.html</link>
-            <guid isPermaLink="false">ed4fc2f9-dbb9-4e11-b36f-98a1bdbc729c</guid>
-            <pubDate>Thu, 05 May 2016 02:55:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
