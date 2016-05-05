@@ -1,14 +1,15 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Individuals seek a psychological evaluation for a variety of reasons. For example, many primary care physicians, psychiatrists, psychiatric nurse practitioners, and therapists refer their patients for evaluations in order to inform their treatment plans. In addition, individuals or parents of adolescents seek evaluations to determine the presence of learning disabilities, ADHD, or other mental health disorders that are impacting their functioning in school, work, or their social lives. '
-datePublished: '2016-05-05T02:48:49.612Z'
-dateModified: '2016-05-05T02:48:48.799Z'
+datePublished: '2016-05-05T03:23:34.776Z'
+dateModified: '2016-05-05T02:50:08.973Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-individuals-seek-a-psychological-evaluation-for-a-variety-of.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-individuals-seek-a-psychological-evaluation-for-a-variety-of.md
 url: individuals-seek-a-psychological-evaluation-for-a-variety-of/index.html
 _type: Article
 
