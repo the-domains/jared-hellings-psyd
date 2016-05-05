@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jared Hellings, PsyD]]></title>
         <description><![CDATA[Jared Hellings, PsyD]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jared-hellings-psyd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 02:36:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 02:41:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jared-hellings-psyd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to my website. I am a clinical psychologist working in beautiful downtown Edmonds, WA, where I work with people of all ages to help address a range of problems. Seeking help can be a humbling and anxiety-filled experience. I encourage you to look around my website to get some answers to a few basic questions. Please contact me for additional information. </p>]]></description>
+            <link>https://thegrid.ai/jared-hellings-psyd/welcome-to-my-website-i-am-a-clinical-psychologist-working/index.html</link>
+            <guid isPermaLink="false">ca91f20a-1d25-4622-a5d7-f2aecc45cbcd</guid>
+            <pubDate>Thu, 05 May 2016 02:40:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<p>I am a licensed clinical psychologist in Washington State (#60068969). After completing a bachelor’s degree in Psychology at Central Washington University, I started working with teenagers in group homes and the foster care system. I worked with so many special kids and families; they inspired me to pursue further training so I completed a doctorate in clinical psychology (PsyD) at Argosy University in 2008. </p>]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <link>https://thegrid.ai/jared-hellings-psyd/about-me/index.html</link>
             <guid isPermaLink="false">2f3694c8-0a8c-4829-803f-4a6bde6f8bd7</guid>
             <pubDate>Thu, 05 May 2016 02:36:58 GMT</pubDate>
         </item>
