@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '1. Diagnostic Interview: This is a 55 minute appointment where we can identify the presenting concerns and some important history. For young children, I prefer to gather the bulk of the history without them present so that parents can talk freely about their concerns without upsetting the kids. I will also spend some one-on-one time with kids to help establish some rapport and get to know them. For teenagers, I will gather the history from them and their parents. For adults, if you prefer to have a spouse, relative, or close friend to help provide details of current or past functioning, they are welcome to participate in the diagnostic interview. It is also helpful to bring any previous records that might be relevant. '
-datePublished: '2016-05-05T03:27:49.161Z'
-dateModified: '2016-05-05T03:23:07.610Z'
+datePublished: '2016-05-05T04:13:21.959Z'
+dateModified: '2016-05-05T03:41:46.202Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-assessment-process.md
