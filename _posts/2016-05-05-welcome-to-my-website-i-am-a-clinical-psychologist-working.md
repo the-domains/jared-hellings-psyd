@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Welcome to my website. I am a clinical psychologist working in beautiful downtown Edmonds, WA, where I work with people of all ages to help address a range of problems. Seeking help can be a humbling and anxiety-filled experience. I encourage you to look around my website to get some answers to a few basic questions. Please contact me for additional information. '
-datePublished: '2016-05-05T02:54:09.792Z'
-dateModified: '2016-05-05T02:51:58.413Z'
+datePublished: '2016-05-05T03:26:27.194Z'
+dateModified: '2016-05-05T03:25:15.130Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-welcome-to-my-website-i-am-a-clinical-psychologist-working.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: welcome-to-my-website-i-am-a-clinical-psychologist-working/index.html
 _type: Article
 
